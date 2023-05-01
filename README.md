@@ -20,6 +20,7 @@ CSS <br>
 Bootstrap
 
 # Open the index.html file in your web browser.
+or click on https://urbanwolf1804.github.io/Travel-Website/ this link
 # Usage
 This website is designed for anyone looking to plan their next vacation or explore different travel destinations. Users can browse through the destinations page, learn more about the company on the about us page, and get in touch using the contact us form.
 
