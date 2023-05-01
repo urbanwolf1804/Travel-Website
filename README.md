@@ -15,9 +15,8 @@ Destinations page displaying popular travel destinations
 Contact Us page with a form for users to submit their queries
 Responsive design that adjusts to the size of the screen
 # Technologies Used
-HTML
-CSS
-JavaScript
+HTML <br>
+CSS <br>
 Bootstrap
 
 # Open the index.html file in your web browser.
